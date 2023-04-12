@@ -1,0 +1,116 @@
+
+body{
+	margin: 0;
+}
+
+.section{
+
+position: absolute;
+width: 100%;
+height: 1322px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 144, 14, 0.1);
+}
+
+div h1 {
+position: absolute;
+width: 600px;
+height: 154px;
+left: 491.5px;
+top: 150px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 75px;
+text-align: center;
+color: #131313;
+}
+
+div h2 {
+
+	position: absolute;
+width: 278px;
+height: 53px;
+left: 130px;
+top: 40px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FD646F;
+}
+
+.navbar {
+
+	position: absolute;
+width: 477px;
+height: 26px;
+left: 1000px;
+top: 63px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+color: #424242;
+display: flex;
+margin: 5px;
+justify-content: space-between;
+
+}
+
+div p{
+	position: absolute;
+width: 868px;
+height: 52px;
+left: 410px;
+top: 379px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 380;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #382929;
+}
+
+.btn {
+
+	position: absolute;
+width: 131px;
+height: 23px;
+left: 700px;
+top: 484px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+div img{
+
+	position: absolute;
+width: 1000px;
+height: 700px;
+left: 291.5px;
+top: 569px;
+border-radius: 8px;
+object-fit: cover;
+}
